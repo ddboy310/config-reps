@@ -3,8 +3,8 @@
     rabbitmq:
       addresses: panda-rabbitmq
       port: 5672
-      username:guest
-      password:guest
+      username:ddboy
+      password:ddboy
       virtual-host: /
       queue: zipkin
   storage:
